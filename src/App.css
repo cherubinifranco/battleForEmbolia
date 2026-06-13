@@ -1,0 +1,10 @@
+* {
+  color: aliceblue;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.App {
+  text-align: center;
+}
